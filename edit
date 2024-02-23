@@ -1,4 +1,1 @@
-ListPlant = {
-    "XXX", "XXX"
-}
-idWorldPlant = "XXX" --ID DOOR WORLD PLANTING
+lockOwner = {"Laxoz", "Kenjai"}
